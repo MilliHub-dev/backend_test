@@ -1,6 +1,6 @@
 nohup: ignoring input
-[dotenv@17.2.1] injecting env (3) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
-[dotenv@17.2.1] injecting env (0) from .env -- tip: 🔐 prevent building .env in docker: https://dotenvx.com/prebuild
+[dotenv@17.2.1] injecting env (3) from .env -- tip: 📡 version env with Radar: https://dotenvx.com/radar
+[dotenv@17.2.1] injecting env (0) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
 ✅ Connected to Neon PostgreSQL database
 ✅ Database tables initialized successfully
 🚀 Server running on port 5000
